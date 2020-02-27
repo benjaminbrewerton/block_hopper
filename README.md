@@ -1,5 +1,5 @@
 # block_hopper
-Block Hopper is a terminal based game written in C where the player must jump between blocks to accumulate points. The higher the score, the better. Players can also jump and capture the treasure which floats along the bottom of the screen to accumulate a one off bonus of lives.
+Block Hopper is a terminal based game written in C for CAB202 where the player must jump between blocks to accumulate points. The higher the score, the better. Players can also jump and capture the treasure which floats along the bottom of the screen to accumulate a one off bonus of lives.
 
 ## Features
 - Randomly generated maps (block randomisation)
