@@ -12,8 +12,8 @@ Block Hopper is a terminal based game written in C where the player must jump be
 As the game runs the user must navigate the platforms to find the best way to accumulate as many points as possible with a randomly generated map. Avoid the no-go blocks marked as *X's* and also try to avoid falling off the map!
 
 ## Screen Captures
-![Gameplay](Captures/cab202_1.PNG)
-![Gameplay with Treasure at bottom](Captures/cab202_2.PNG)
+![Gameplay](Captures/CAB202_1.PNG)
+![Gameplay with Treasure at bottom](Captures/CAB202_2.PNG)
 
 ## Authors
 [@benjaminbrewerton](https://github.com/benjaminbrewerton)
